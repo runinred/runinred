@@ -4,6 +4,9 @@ I am Denis Ogloblin.
 Ex- service analyst in Miele CIS. 
 My main focus is the analysis of inventories and the sales structure of spare parts for household and professional appliances. 
 
+My stack: Python (pandas, matplotlib, numpy, seaborn, plotly, scipy, sklearn, folium, requests) SQL, PostgreSQL, MS Excel, Power Query, DAX, Power BI, Tableau. 
+
+
 I am currently studying at Yandex Practicum, where I am improving my skills in data analysis.
 I am actively studying and applying
 - SQL, which I use to extract and manipulate data in databases,
