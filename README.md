@@ -8,7 +8,7 @@ My stack: Python (pandas, matplotlib, numpy, seaborn, plotly, scipy, sklearn, fo
 
 
 I am currently studying at Yandex Practicum, where I am improving my skills in data analysis.
-I am actively studying and applying
+I am actively studying and applying:
 - SQL, which I use to extract and manipulate data in databases,
 - Python, as it provides a powerful tool for data processing and analysis,
 - BI systems (for example, Tableau) that help visualize and interpret data for data-driven decisions .
