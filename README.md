@@ -1,19 +1,19 @@
-### Привет! 
-Меня зовут Денис Оглоблин. 
+### Hey! 
+I am Denis Ogloblin. 
 
-Я аналитик по запасным частям в компании Miele. 
-Мой основной фокус - это анализ товарных запасов и структуры продаж запасных частей для бытовой и профессиональной техники. 
+Ex- service analyst in Miele CIS. 
+My main focus is the analysis of inventories and the sales structure of spare parts for household and professional appliances. 
 
-В настоящее время я прохожу обучение в ЯндексПрактикуме, где углубляю свои знания в области аналитики данных.
-Я активно изучаю и применяю
-- SQL, который я использую для извлечения и манипулирования данными в базах данных,
-- Python, так как он предоставляет мощный инструмент для обработки и анализа данных,
-- BI,-системы (например, Tableau), которые помогают визуализировать и интерпретировать данные для принятия стратегических решений.
+I am currently studying at Yandex Practicum, where I am improving my skills in data analysis.
+I am actively studying and applying
+- SQL, which I use to extract and manipulate data in databases,
+- Python, as it provides a powerful tool for data processing and analysis,
+- BI systems (for example, Tableau) that help visualize and interpret data for data-driven decisions .
 
-В моем репозитории на GitHub размещены проекты, связанные с анализом данных, а также примеры моих исследований и аналитических отчетов.
+My GitHub repository contains projects related to data analysis, as well as examples of my research and analytical reports.
 
-Я всегда открыт для сотрудничества и обмена опытом с другими аналитиками и разработчиками. 
-Буду рад делиться своими знаниями и учиться у других профессионалов.
+I am always open to collaboration and sharing experiences with other analysts and developers. 
+I will be glad to share my knowledge and learn from other professionals.
 
 ogloblin.de@yandex.ru  
 https://t.me/ogloblin_de
